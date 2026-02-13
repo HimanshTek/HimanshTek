@@ -3,13 +3,10 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase and AIML**
 
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **himansh.tek@gmail.com**
 
 - 📄 Know about my experiences [Member of GDG On Campus ,Gitam Hyderabd](Member of GDG On Campus ,Gitam Hyderabd)
 
-- ⚡ Fun fact **I am slightly nerdy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

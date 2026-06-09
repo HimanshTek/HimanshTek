@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋, I'm Himansh Tekumudi</h1>
-<h3 align="center">A passionate developer</h3>
+## 👋 Hi, I'm Himansh Tekumudi
 
-- 🌱 I’m currently learning **Flutter, Firebase and AIML**
+**CS Undergrad @ GITAM** | Building efficient models for resource-constrained hardware
 
-- 📫 How to reach me **himansh.tek@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d4ed8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansh-tekumudi-2734a0343)
+[![LeetCode](https://img.shields.io/badge/LeetCode-151_Solved-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/HimTek/)
+[![picoCTF](https://img.shields.io/badge/picoCTF_2026-%23181_Global-1d4ed8?style=flat)](https://picoctf.org)
 
-- 📄 Know about my experiences [Member of GDG On Campus ,Gitam Hyderabd](Member of GDG On Campus ,Gitam Hyderabd)
+---
 
+### 🧠 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I build machine learning models with a focus on **efficiency and deployment**. My work spans:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Deep Learning** — Transformers from scratch (PyTorch), object detection (YOLOv8s), ensemble methods
+- **Model Optimization** — Quantization (PTQ / QAT) for ARM Cortex-M and ESP32 targets
+- **ML Engineering** — Data pipelines, feature engineering, model evaluation, deployment
+- **Cloud & DevOps** — Docker, CI/CD (GitHub Actions → AWS), Linux systemd orchestration
+
+### 🏗️ Featured Projects
+
+**Firemen** — 4-model ensemble (XGBoost, TFT, TabNet, CatBoost) for wildfire risk prediction with a Streamlit dashboard. Majority-vote ensemble, engineered features from satellite + environmental data. *(AMD Slingshot Hackathon 2026)*
+
+**Space Station Safety Detection** — YOLOv8s object detection model achieving 65.2% mAP50 on 7 classes of safety equipment. Trained on Tesla T4 with mosaic augmentation. *(HackWithHyderabad Duality AI Challenge)*
+
+**GPT-Style Transformer** — Decoder-only transformer built from first principles (multi-head attention, causal masking, BPE tokenization). Guided by Vaswani et al. and PEFT/LoRA research. Researching quantization for MCU deployment.
+
+### 📜 What I'm Learning
+
+- Model quantization and pruning for edge deployment
+- Parameter-efficient fine-tuning (LoRA, adapters)
+- Production ML pipelines and MLOps practices
+
+### 📬 Reach Me
+
+**Email**: himansh.tek@gmail.com
+**GitHub**: [github.com/HimanshTek](https://github.com/HimanshTek)
+**LinkedIn**: [linkedin.com/in/himansh-tekumudi-2734a0343](https://linkedin.com/in/himansh-tekumudi-2734a0343)

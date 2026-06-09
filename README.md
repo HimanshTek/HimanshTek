@@ -3,7 +3,7 @@
 **CS Undergrad @ GITAM** | Building efficient models for resource-constrained hardware
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1d4ed8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansh-tekumudi-2734a0343)
-[![LeetCode](https://img.shields.io/badge/LeetCode-151_Solved-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/HimTek/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-151_Solved-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/qh83mC4wQD/)
 [![picoCTF](https://img.shields.io/badge/picoCTF_2026-%23181_Global-1d4ed8?style=flat)](https://picoctf.org)
 
 ---

@@ -13,7 +13,7 @@
 I build machine learning models with a focus on **efficiency and deployment**. My work spans:
 
 - **Deep Learning** — Transformers from scratch (PyTorch), object detection (YOLOv8s), ensemble methods
-- **Model Optimization** — Quantization (PTQ / QAT) for ARM Cortex-M and ESP32 targets
+- **Model Optimization** — Quantization (PTQ / QAT) 
 - **ML Engineering** — Data pipelines, feature engineering, model evaluation, deployment
 - **Cloud & DevOps** — Docker, CI/CD (GitHub Actions → AWS), Linux systemd orchestration
 

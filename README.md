@@ -19,11 +19,21 @@ I build machine learning models with a focus on **efficiency and deployment**. M
 
 ### 🏗️ Featured Projects
 
-**Firemen** — 4-model ensemble (XGBoost, TFT, TabNet, CatBoost) for wildfire risk prediction with a Streamlit dashboard. Majority-vote ensemble, engineered features from satellite + environmental data. *(AMD Slingshot Hackathon 2026)*
+**Firemen** — 4-model ensemble (XGBoost, TFT, TabNet, CatBoost) for wildfire risk prediction with a Streamlit dashboard. Majority-vote ensemble, engineered features from satellite + environmental data.
 
-**Space Station Safety Detection** — YOLOv8s object detection model achieving 65.2% mAP50 on 7 classes of safety equipment. Trained on Tesla T4 with mosaic augmentation. *(HackWithHyderabad Duality AI Challenge)*
+**Space Station Safety Detection** — YOLOv8s object detection model achieving 65.2% mAP50 on 7 classes of safety equipment. Trained on Tesla T4 with mosaic augmentation. *(HackWithHyderabad Dual)*
 
-**GPT-Style Transformer** — Decoder-only transformer built from first principles (multi-head attention, causal masking, BPE tokenization). Guided by Vaswani et al. and PEFT/LoRA research. Researching quantization for MCU deployment.
+**GPT-Style Transformer** — Decoder-only transformer built from first principles (multi-head attention, causal masking, BPE tokenization). Guided by Vaswani et al. and PEFT/LoRA research. Research-backed implementation.
+
+### 📌 Top 5 Projects
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| [**Flutter Shopping App**](https://github.com/HimanshTek/Flutter_Shopping_App) | C++ | Mobile shopping application built with Flutter |
+| [**Flutter Weather App**](https://github.com/HimanshTek/Flutter_Weather_App) | C++ | Real-time weather application with Flutter |
+| [**Fraud Detection API**](https://github.com/HimanshTek/Fraud-Detection-API) | Python | API for detecting fraudulent transactions |
+| [**RaspberryPi AI Assistant**](https://github.com/HimanshTek/RaspberryPi_AI_Assistant) | Python | AI assistant optimized for RaspberryPi hardware |
+| [**Micrograd**](https://github.com/HimanshTek/micrograd) | Jupyter Notebook | Automatic differentiation engine from scratch |
 
 ### 📜 What I'm Learning
 

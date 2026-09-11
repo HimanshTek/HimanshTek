@@ -19,7 +19,7 @@ I build machine learning models with a focus on **efficiency and deployment**. M
 
 ### 🏗️ Featured Projects
 
-**Space Station Safety Detection** — YOLOv8s object detection model achieving 65.2% mAP50 on 7 classes of safety equipment. Trained on Tesla T4 with mosaic augmentation. *(HackWithHyderabad Dual[...]*
+**Space Station Safety Detection** — YOLOv8s object detection model achieving 65.2% mAP50 on 7 classes of safety equipment. Trained on Tesla T4 with mosaic augmentation. *(HackWithHyderabad)*
 
 **GPT-Style Transformer** — Decoder-only transformer built from first principles (multi-head attention, causal masking, BPE tokenization). Guided by Vaswani et al. and PEFT/LoRA research.
 
